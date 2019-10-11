@@ -1,3 +1,8 @@
+/*
+* written by Bankeen Mustafa
+* a project for Java IoT course, in IntecBrussel
+* 20/09/2019
+*/
 const int temperaturePin = A0;
 const int ledColdPin = 11;
 const int ledNormalPin = 12;
